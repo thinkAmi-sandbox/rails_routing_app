@@ -1,24 +1,14 @@
-# README
+# rails_routing_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tested Environment
 
-Things you may want to cover:
+- macOS
+- Ruby 3.0.1
+- Rails 6.1.4
 
-* Ruby version
 
-* System dependencies
+　  
 
-* Configuration
+## Related Blog (Written in Japanese)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Railsにて、Controllerのactionにクエリストリング付でリダイレクトする - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2021/07/07/001015)
